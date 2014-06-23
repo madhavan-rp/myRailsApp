@@ -1,5 +1,6 @@
 [ ![Codeship Status for madhavan-rp/myRailsApp](https://www.codeship.io/projects/18317b10-d9bf-0131-7067-4286d2d62352/status)](https://www.codeship.io/projects/24200)
 
+Deploy it.
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
